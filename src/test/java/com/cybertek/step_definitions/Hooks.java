@@ -44,12 +44,6 @@ public class Hooks {
 
     }
 
-
-
-
-
-
-
 /*
     from previous method just take it out to make it neat
      //System.out.println("--->After annotation: Closing browser");

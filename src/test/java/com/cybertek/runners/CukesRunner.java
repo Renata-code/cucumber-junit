@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         features = "src/test/resources/features",//path from content root on features package
         glue = "com/cybertek/step_definitions",//path from source root on step definitions package
         dryRun = false, //will not run actual implementation of our code it willcheck the feature file steps
-        tags = "@smartBear" //which one you want to run
+        tags = "@fig" //which one you want to run
 
 )
 

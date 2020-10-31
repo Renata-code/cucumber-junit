@@ -20,5 +20,5 @@ Feature: SmartBear Order Process
     Examples:
 
       | product | quantity | customer name | street    | city    | state | zip   | cardType | card number   | exp date | expectedName |
-      | MyMoney | 1        | Ken Adams     | Kinzie st | Chikago | IL    | 60004 | Visa     | 3285749843943 | 12/22    | KenAdamas    |
+      | MyMoney | 1        | Ken Adams     | Kinzie st | Chicago | IL    | 60004 | Visa     | 3285749843943 | 12/22    | KenAdamas    |
 
